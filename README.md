@@ -124,4 +124,4 @@ We are all happy and excited about your inputs and contribution to Hacktoberfest
 
 
 
-All the best for Hactober 2021!!!
+All the best for 2021!!!
